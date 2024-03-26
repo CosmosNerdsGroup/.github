@@ -1,1 +1,2 @@
-# .github
+# first
+L + ratio + ur lame + balls
