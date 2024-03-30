@@ -3,8 +3,9 @@ We are a group of 5 nerds who are trynna make somethin' never seen before in cos
 
 ### Check out [Universo](https://github.com/CosmosNerdsGroup/Universo)
 
-## - Members:
+## Members:
 1. @PratyushKing
 2. @SyzmekkYT (aka Miotla)
-3. @SammaPixelStudio (aka sammy boi)
-4. @MrBisquit (aka William aka Nerd)
+3. 4. @MrBisquit (aka William aka Nerd)
+4. @SammaPixelStudio (aka sammy boi)
+5. @Blackneeed
